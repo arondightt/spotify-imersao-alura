@@ -1,0 +1,78 @@
+[33mcommit 3e086aa774b73168ae3d474188d0d1f13b6fc0ba[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: 5ac21db 7e85eb3
+Author: Omar Martins <76788546+arondightt@users.noreply.github.com>
+Date:   Fri Jan 26 00:20:41 2024 -0300
+
+    Merge pull request #2 from arondightt/omarmartins/aula4
+    
+    Omarmartins/aula4
+
+[33mcommit 7e85eb3e6b50df3499e161cbddd2ec1780265271[m[33m ([m[1;31morigin/omarmartins/aula4[m[33m)[m
+Author: Omar Martins <omarmartinsabreu@gmail.com>
+Date:   Fri Jan 26 00:19:29 2024 -0300
+
+    aula-4
+
+[33mcommit d328d197228125258b38c4660c0f78ce9128694a[m
+Author: Omar Martins <omarmartinsabreu@gmail.com>
+Date:   Thu Jan 25 22:22:16 2024 -0300
+
+    apagando
+
+[33mcommit 645c94c6eb962ca72bd222fb337815008c34ca8b[m
+Author: Omar Martins <omarmartinsabreu@gmail.com>
+Date:   Thu Jan 25 22:20:47 2024 -0300
+
+    testando
+
+[33mcommit 5ac21dbb1093fc21bf97c83d1c00724860eea578[m
+Merge: 0cc41e3 e13724f
+Author: Omar Martins <76788546+arondightt@users.noreply.github.com>
+Date:   Thu Jan 25 22:03:54 2024 -0300
+
+    Merge pull request #1 from arondightt/aula-4
+    
+    aula-3
+
+[33mcommit e13724f01136b8bbad4c1b4f917a46528de3b7db[m[33m ([m[1;31morigin/aula-4[m[33m)[m
+Author: Omar Martins <omarmartinsabreu@gmail.com>
+Date:   Thu Jan 25 21:54:52 2024 -0300
+
+    aula-3
+
+[33mcommit 0cc41e3546a69fd1a4db54deda76552ea5d3fc7d[m
+Author: Omar Martins <76788546+arondightt@users.noreply.github.com>
+Date:   Thu Jan 25 00:17:03 2024 -0300
+
+    corrige
+
+[33mcommit c5953468c9593a08b2c67c08eed4f795f1d2f011[m
+Author: Omar Martins <76788546+arondightt@users.noreply.github.com>
+Date:   Thu Jan 25 00:15:22 2024 -0300
+
+    corrige
+
+[33mcommit a0a0f5aa15819e23ef73f8fea268cc30fcf28b03[m
+Author: Omar Martins <omarmartinsabreu@gmail.com>
+Date:   Thu Jan 25 00:09:09 2024 -0300
+
+    aula 2
+
+[33mcommit 3a9a1b846a7132c1cdf045e15680c220a3474c62[m
+Merge: 844a6a0 f904efb
+Author: Omar Martins <omarmartinsabreu@gmail.com>
+Date:   Wed Jan 24 23:03:33 2024 -0300
+
+    Merge branch 'main' of https://github.com/arondightt/spotify-imersao-alura
+
+[33mcommit f904efb3141213bf487ccb1c7f8caffc8948b927[m
+Author: Omar Martins <76788546+arondightt@users.noreply.github.com>
+Date:   Wed Jan 24 22:43:11 2024 -0300
+
+    Initial commit
+
+[33mcommit 844a6a0b822ff6ad4b6470599c6b2ffac8eb0195[m
+Author: Omar Martins <omarmartinsabreu@gmail.com>
+Date:   Wed Jan 24 22:39:23 2024 -0300
+
+    aula 1
